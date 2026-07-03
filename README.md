@@ -1,6 +1,6 @@
 # 🏢 BlueMoon — Hệ thống Quản lý Chung cư
 
-> Đồ án môn **Nhập môn Công nghệ phần mềm (IT3160)** — Học kỳ 2025.2 — Nhóm 7
+> Đồ án môn **Nhập môn Công nghệ phần mềm (IT3180)** — Học kỳ 2025.2 — Nhóm 7
 
 Ứng dụng web quản lý toàn diện một khu chung cư: quản lý căn hộ, hộ gia đình, nhân khẩu,
 các khoản thu phí, thanh toán (tiền mặt & VNPay), phương tiện, hoá đơn điện/nước, khiếu nại,
@@ -152,7 +152,7 @@ Khi khởi động, hệ thống tự seed tài khoản admin và ~100 tài kho�
 ## 📂 Cấu trúc thư mục
 
 ```
-IT3160_2025.2_Nhom7/
+it3180_2025.2_Nhom7/
 ├── Backend/                       # Spring Boot API
 │   ├── src/main/java/org/example/backend/
 │   │   ├── controller/            # 18 REST controllers (Auth, Apartment, Resident, Fee, Payment…)
@@ -213,7 +213,7 @@ Phân quyền được kiểm soát ở **2 tầng**: `SecurityFilterChain` (the
 
 ## 👥 Thành viên nhóm
 
-> Nhóm 7 — IT3160 (HK 2025.2)
+> Nhóm 7 — it3180 (HK 2025.2)
 
 | Họ và tên | Vai trò |
 |-----------|---------|
